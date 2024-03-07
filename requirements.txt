@@ -9,6 +9,7 @@ numpy
 scipy
 polars
 pillow
+fastparquet
 #EDA
 sweetviz
 # 特徴量エンジニアリング
