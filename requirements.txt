@@ -32,7 +32,7 @@ tslearn
 #ハイパラ
 scikit-optimize
 #AutoML
-pycaret[full]
+category_encoders
 
 
 
