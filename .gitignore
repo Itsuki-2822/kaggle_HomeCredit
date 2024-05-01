@@ -4,3 +4,4 @@
 .kaggle/
 kaggle.json
 catboost_info/
+*.h5
